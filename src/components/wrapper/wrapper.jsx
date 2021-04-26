@@ -1,5 +1,4 @@
 import React from "react";
-
 const Wrapper = ({ children }) => {
   return (
     <div
@@ -9,8 +8,6 @@ const Wrapper = ({ children }) => {
         flexDirection: "row",
         justifyContent: "space-evenly",
         alignItems: "center",
-        width: "100%",
-        marginBottom: "10px",
       }}
     >
       {children}
