@@ -1,4 +1,7 @@
 .idInfo {
   background-color: #ddd;
-  width: 100%;
+}
+.idContainer {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin-bottom: 100px;
 }

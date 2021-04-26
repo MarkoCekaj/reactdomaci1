@@ -1,3 +1,7 @@
 .bookInfo {
   background-color: #ddd;
 }
+.bookContainer {
+  box-shadow: 10px 10px 5px #aaaaaa;
+  margin-bottom: 100px;
+}
